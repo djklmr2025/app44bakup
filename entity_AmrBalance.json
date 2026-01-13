@@ -27,5 +27,13 @@
     "created_by_id": "68f311926eef5b3eb520aaf1",
     "created_by": "djklmr2024@gmail.com",
     "is_sample": false
+  },
+  {
+    "user_email": "nuevo_ciudadano@arkaios.edu",
+    "balance": 100,
+    "id": "0af9f048d158b597d8ad2b47",
+    "created_date": "2026-01-13T06:39:20.981Z",
+    "updated_date": "2026-01-13T06:39:20.981Z",
+    "is_sample": false
   }
 ]
