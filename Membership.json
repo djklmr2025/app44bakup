@@ -1,0 +1,17 @@
+[
+  {
+    "user_email": "djklmr2024@gmail.com",
+    "plan_type": "annual",
+    "start_date": "2026-01-08T07:07:06.300Z",
+    "end_date": "2027-01-08T07:07:06.300Z",
+    "status": "active",
+    "amount_paid": 1000,
+    "transaction_id": "695f579bca4b0c3cf02b1a71",
+    "id": "695f579bd79d1e0172751042",
+    "created_date": "2026-01-08T07:07:07.244000",
+    "updated_date": "2026-01-08T07:07:07.244000",
+    "created_by_id": "68f311926eef5b3eb520aaf1",
+    "created_by": "djklmr2024@gmail.com",
+    "is_sample": false
+  }
+]

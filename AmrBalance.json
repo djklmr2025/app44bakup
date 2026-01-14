@@ -1,0 +1,31 @@
+[
+  {
+    "user_email": "djklmr2024@gmail.com",
+    "balance": 9000,
+    "wallet_address": null,
+    "arkaios_identity": null,
+    "card_number_16": null,
+    "clabe_interbancaria": null,
+    "banco_receptor": null,
+    "linked_ids": [
+      {
+        "type": "google_email",
+        "value": "djklmr2024@gmail.com",
+        "verified": true,
+        "linked_at": "2026-01-08T09:05:43.585Z"
+      },
+      {
+        "type": "phone",
+        "value": "+52516469310",
+        "verified": true,
+        "linked_at": "2026-01-08T09:06:25.815Z"
+      }
+    ],
+    "id": "695f51c48e67e0543e845ac7",
+    "created_date": "2026-01-08T06:42:12.898000",
+    "updated_date": "2026-01-08T09:06:28.017000",
+    "created_by_id": "68f311926eef5b3eb520aaf1",
+    "created_by": "djklmr2024@gmail.com",
+    "is_sample": false
+  }
+]

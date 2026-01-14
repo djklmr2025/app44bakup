@@ -1,0 +1,6 @@
+{
+  "last_sync": "2026-01-14T07:00:33.508Z",
+  "app_id": "68f311926eef5b3eb520aaf0",
+  "soul_engine_endpoint": "http://localhost:3000/api",
+  "mode": "MIRROR_FALLBACK"
+}
