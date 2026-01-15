@@ -1,4 +1,4 @@
-# 🏛️ ARKAIOS - APB44 IMMORTAL MIRROR
+# 🏛️ ARKAIOS - APP44 IMMORTAL MIRROR
 **Estado:** Clonado y Sincronizado (Fecha: 14 de Enero, 2026)
 
 Este repositorio es una copia exacta del "alma" de App44. Contiene la definición de la interfaz, las reglas de negocio y un backup de todas las entidades ciudadanas.
